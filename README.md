@@ -2,6 +2,8 @@
 
 > Generate S3 presigned URLs for both put and get
 
+![Rust](https://github.com/hoop33/presign/workflows/Rust/badge.svg)
+
 ## Overview
 
 You can generate presigned URLs for S3 objects using the AWS CLI, but for GET only (from what I can tell). This is a simple CLI for generating presigned URLs for either GET or PUT.
